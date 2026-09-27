@@ -1,0 +1,6041 @@
+[
+  {
+    "id": "ch-0001",
+    "name": "BeIN SPORTS 1 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743609.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 1
+  },
+  {
+    "id": "ch-0002",
+    "name": "BeIN SPORTS 2 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743610.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 2
+  },
+  {
+    "id": "ch-0003",
+    "name": "BeIN SPORTS 3 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743611.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 3
+  },
+  {
+    "id": "ch-0004",
+    "name": "BeIN SPORTS 4 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743612.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 4
+  },
+  {
+    "id": "ch-0005",
+    "name": "BeIN SPORTS 5 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743613.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 5
+  },
+  {
+    "id": "ch-0006",
+    "name": "BeIN SPORTS 6 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743614.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 6
+  },
+  {
+    "id": "ch-0007",
+    "name": "BeIN SPORTS 7 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743615.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 7
+  },
+  {
+    "id": "ch-0008",
+    "name": "BeIN SPORTS 8 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743616.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 8
+  },
+  {
+    "id": "ch-0009",
+    "name": "BeIN SPORTS 9 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743617.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 9
+  },
+  {
+    "id": "ch-0010",
+    "name": "BEIN_SPORTS1_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743559.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 10
+  },
+  {
+    "id": "ch-0011",
+    "name": "BEIN_SPORTS2_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743560.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 11
+  },
+  {
+    "id": "ch-0012",
+    "name": "BEIN_SPORTS3_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743561.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 12
+  },
+  {
+    "id": "ch-0013",
+    "name": "BEIN_SPORTS4_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743562.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 13
+  },
+  {
+    "id": "ch-0014",
+    "name": "BEIN_SPORTS5_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743563.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 14
+  },
+  {
+    "id": "ch-0015",
+    "name": "BEIN_SPORTS6_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743564.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 15
+  },
+  {
+    "id": "ch-0016",
+    "name": "BEIN_SPORTS7_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743565.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 16
+  },
+  {
+    "id": "ch-0017",
+    "name": "BEIN_SPORTS8_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743566.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 17
+  },
+  {
+    "id": "ch-0018",
+    "name": "BEIN_SPORTS9_SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743567.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 18
+  },
+  {
+    "id": "ch-0019",
+    "name": "BeIN Sports 1 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743583.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 19
+  },
+  {
+    "id": "ch-0020",
+    "name": "BeIN Sports 2 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743584.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 20
+  },
+  {
+    "id": "ch-0021",
+    "name": "BeIN Sports 3 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743585.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 21
+  },
+  {
+    "id": "ch-0022",
+    "name": "BeIN Sports 4 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743586.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 22
+  },
+  {
+    "id": "ch-0023",
+    "name": "BeIN Sports 5 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743587.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 23
+  },
+  {
+    "id": "ch-0024",
+    "name": "BeIN Sports 6 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743588.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 24
+  },
+  {
+    "id": "ch-0025",
+    "name": "BeIN Sports 7 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743589.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 25
+  },
+  {
+    "id": "ch-0026",
+    "name": "BeIN Sports 8 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743590.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 26
+  },
+  {
+    "id": "ch-0027",
+    "name": "BeIN Sports 9 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743591.m3u8",
+    "category": "beIN SPORTS SD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 27
+  },
+  {
+    "id": "ch-0028",
+    "name": "BEIN SPORTS 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743631.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 28
+  },
+  {
+    "id": "ch-0029",
+    "name": "BEIN SPORTS 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743632.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 29
+  },
+  {
+    "id": "ch-0030",
+    "name": "BEIN SPORTS 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743633.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 30
+  },
+  {
+    "id": "ch-0031",
+    "name": "BEIN SPORTS 4 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743634.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 31
+  },
+  {
+    "id": "ch-0032",
+    "name": "BEIN SPORTS 5 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743635.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 32
+  },
+  {
+    "id": "ch-0033",
+    "name": "BEIN SPORTS 6 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743636.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 33
+  },
+  {
+    "id": "ch-0034",
+    "name": "BEIN SPORTS 7 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743637.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 34
+  },
+  {
+    "id": "ch-0035",
+    "name": "BEIN SPORTS 8 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743638.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 35
+  },
+  {
+    "id": "ch-0036",
+    "name": "BEIN SPORTS 9 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743639.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 36
+  },
+  {
+    "id": "ch-0037",
+    "name": "beIN SPORTS 4 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51803.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 37
+  },
+  {
+    "id": "ch-0038",
+    "name": "beIN SPORTS 5 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51802.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 38
+  },
+  {
+    "id": "ch-0039",
+    "name": "beIN SPORTS 6 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51801.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 39
+  },
+  {
+    "id": "ch-0040",
+    "name": "beIN SPORTS 7 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51800.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 40
+  },
+  {
+    "id": "ch-0041",
+    "name": "beIN SPORTS 8 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51799.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 41
+  },
+  {
+    "id": "ch-0042",
+    "name": "beIN SPORTS 9 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51798.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 42
+  },
+  {
+    "id": "ch-0043",
+    "name": "beIN SPORTS 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51796.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 43
+  },
+  {
+    "id": "ch-0044",
+    "name": "beIN SPORTS 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51795.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 44
+  },
+  {
+    "id": "ch-0045",
+    "name": "beIN SPORTS 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51794.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 45
+  },
+  {
+    "id": "ch-0046",
+    "name": "beIN Sport News FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93678.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 46
+  },
+  {
+    "id": "ch-0047",
+    "name": "beIN Sport Extra 02",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93676.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 47
+  },
+  {
+    "id": "ch-0048",
+    "name": "beIN Sport Extra 01",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93675.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 48
+  },
+  {
+    "id": "ch-0049",
+    "name": "Bein Sports 09 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/93673.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 49
+  },
+  {
+    "id": "ch-0050",
+    "name": "Bein Sports 01 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61064.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 50
+  },
+  {
+    "id": "ch-0051",
+    "name": "Bein Sports 02 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61063.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 51
+  },
+  {
+    "id": "ch-0052",
+    "name": "Bein Sports 03 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61062.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 52
+  },
+  {
+    "id": "ch-0053",
+    "name": "Bein Sports 04 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61061.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 53
+  },
+  {
+    "id": "ch-0054",
+    "name": "Bein Sports 05 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61060.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 54
+  },
+  {
+    "id": "ch-0055",
+    "name": "Bein Sports 06 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61059.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 55
+  },
+  {
+    "id": "ch-0056",
+    "name": "Bein Sports 07 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61058.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 56
+  },
+  {
+    "id": "ch-0057",
+    "name": "Bein Sports  08 FHD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/61057.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 57
+  },
+  {
+    "id": "ch-0058",
+    "name": "Bein Sports 01 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51826.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 58
+  },
+  {
+    "id": "ch-0059",
+    "name": "Bein Sports 02 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51825.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 59
+  },
+  {
+    "id": "ch-0060",
+    "name": "Bein Sports 03 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51824.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 60
+  },
+  {
+    "id": "ch-0061",
+    "name": "Bein Sports 04 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51823.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 61
+  },
+  {
+    "id": "ch-0062",
+    "name": "Bein Sports 05 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51822.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 62
+  },
+  {
+    "id": "ch-0063",
+    "name": "Bein Sports 06 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51821.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 63
+  },
+  {
+    "id": "ch-0064",
+    "name": "Bein Sports 07  [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51820.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 64
+  },
+  {
+    "id": "ch-0065",
+    "name": "Bein Sports  08[4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51819.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 65
+  },
+  {
+    "id": "ch-0066",
+    "name": "Bein Sports 09 [4k]",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/51818.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 66
+  },
+  {
+    "id": "ch-0067",
+    "name": "BeIN SPORTS 9 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743649.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 67
+  },
+  {
+    "id": "ch-0068",
+    "name": "BeIN SPORTS 8 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743648.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 68
+  },
+  {
+    "id": "ch-0069",
+    "name": "BeIN SPORTS 7 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743647.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 69
+  },
+  {
+    "id": "ch-0070",
+    "name": "BeIN SPORTS 6 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743646.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 70
+  },
+  {
+    "id": "ch-0071",
+    "name": "BeIN SPORTS 5 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743645.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 71
+  },
+  {
+    "id": "ch-0072",
+    "name": "BeIN SPORTS 4 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743644.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 72
+  },
+  {
+    "id": "ch-0073",
+    "name": "BeIN SPORTS 3 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743643.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 73
+  },
+  {
+    "id": "ch-0074",
+    "name": "BeIN SPORTS 2 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743642.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 74
+  },
+  {
+    "id": "ch-0075",
+    "name": "BeIN SPORTS 1 H 265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743641.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 75
+  },
+  {
+    "id": "ch-0076",
+    "name": "beIN Sport 01 (1080p) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58868.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 76
+  },
+  {
+    "id": "ch-0077",
+    "name": "beIN Sport 02 (1080p) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58867.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 77
+  },
+  {
+    "id": "ch-0078",
+    "name": "beIN Sport 03 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58866.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 78
+  },
+  {
+    "id": "ch-0079",
+    "name": "beIN Sport 04 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58865.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 79
+  },
+  {
+    "id": "ch-0080",
+    "name": "beIN Sport 05 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58864.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 80
+  },
+  {
+    "id": "ch-0081",
+    "name": "beIN Sport 06 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58863.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 81
+  },
+  {
+    "id": "ch-0082",
+    "name": "beIN Sport 07 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58862.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 82
+  },
+  {
+    "id": "ch-0083",
+    "name": "beIN Sports 08 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58861.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 83
+  },
+  {
+    "id": "ch-0084",
+    "name": "beIN Sports 09 (1080P) H265",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/58860.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 84
+  },
+  {
+    "id": "ch-0085",
+    "name": "(AR)BEIN_SPORTS9 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743576.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 85
+  },
+  {
+    "id": "ch-0086",
+    "name": "(AR)BEIN_SPORTS8 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743575.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 86
+  },
+  {
+    "id": "ch-0087",
+    "name": "(AR)BEIN_SPORTS7 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743574.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 87
+  },
+  {
+    "id": "ch-0088",
+    "name": "(AR)BEIN_SPORTS6 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743573.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 88
+  },
+  {
+    "id": "ch-0089",
+    "name": "(AR)BEIN_SPORTS5 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743572.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 89
+  },
+  {
+    "id": "ch-0090",
+    "name": "(AR)BEIN_SPORTS4 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743571.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 90
+  },
+  {
+    "id": "ch-0091",
+    "name": "(AR)BEIN_SPORTS3 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743570.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 91
+  },
+  {
+    "id": "ch-0092",
+    "name": "(AR)BEIN_SPORTS2 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743569.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 92
+  },
+  {
+    "id": "ch-0093",
+    "name": "(AR)BEIN_SPORTS1 HEVC(1080i)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/743568.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 93
+  },
+  {
+    "id": "ch-0094",
+    "name": "beIN SPORTS HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625066.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 94
+  },
+  {
+    "id": "ch-0095",
+    "name": "beIN Sports News HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625067.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 95
+  },
+  {
+    "id": "ch-0096",
+    "name": "beIN SPORTS NEWS FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625105.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 96
+  },
+  {
+    "id": "ch-0097",
+    "name": "beIN SPORTS FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625106.m3u8",
+    "category": "beIN SPORTS HD",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 97
+  },
+  {
+    "id": "ch-0098",
+    "name": "Al Kass One HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625073.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 98
+  },
+  {
+    "id": "ch-0099",
+    "name": "Al Kass Two HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625074.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 99
+  },
+  {
+    "id": "ch-0100",
+    "name": "Al Kass Three HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625075.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 100
+  },
+  {
+    "id": "ch-0101",
+    "name": "Al Kass Four HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625076.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 101
+  },
+  {
+    "id": "ch-0102",
+    "name": "Al Kass Five HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625077.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 102
+  },
+  {
+    "id": "ch-0103",
+    "name": "Thmanayh 3 4K",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371723.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 103
+  },
+  {
+    "id": "ch-0104",
+    "name": "Thmanayh 2 4K",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371722.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 104
+  },
+  {
+    "id": "ch-0105",
+    "name": "Thmanayh 1 4K",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371721.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 105
+  },
+  {
+    "id": "ch-0106",
+    "name": "Thmanayh 3HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371720.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 106
+  },
+  {
+    "id": "ch-0107",
+    "name": "Thmanayh 2HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371719.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 107
+  },
+  {
+    "id": "ch-0108",
+    "name": "Thmanayh 1HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/371718.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 108
+  },
+  {
+    "id": "ch-0109",
+    "name": "Shahid 1 Evnet",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625065.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 109
+  },
+  {
+    "id": "ch-0110",
+    "name": "AD Sport 1HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625068.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 110
+  },
+  {
+    "id": "ch-0111",
+    "name": "AD Sport 2HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625069.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 111
+  },
+  {
+    "id": "ch-0112",
+    "name": "KSA Sport 1HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625070.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 112
+  },
+  {
+    "id": "ch-0113",
+    "name": "KSA Sport 2HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625071.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 113
+  },
+  {
+    "id": "ch-0114",
+    "name": "KSA Sport 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625072.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 114
+  },
+  {
+    "id": "ch-0115",
+    "name": "Saudia Sport 24 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625078.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 115
+  },
+  {
+    "id": "ch-0116",
+    "name": "Sharjah Sports TV HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625079.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 116
+  },
+  {
+    "id": "ch-0117",
+    "name": "Dubai Sport 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625080.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 117
+  },
+  {
+    "id": "ch-0118",
+    "name": "Dubai Sport 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625081.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 118
+  },
+  {
+    "id": "ch-0119",
+    "name": "Dubai Sport 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625082.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 119
+  },
+  {
+    "id": "ch-0120",
+    "name": "Dubai Racing 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625083.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 120
+  },
+  {
+    "id": "ch-0121",
+    "name": "Dubai Racing 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625084.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 121
+  },
+  {
+    "id": "ch-0122",
+    "name": "Dubai Racing 3 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625085.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 122
+  },
+  {
+    "id": "ch-0123",
+    "name": "Al Iraqia Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625086.m3u8",
+    "category": "العراق",
+    "icon": "fa-location-dot",
+    "enabled": true,
+    "sort": 123
+  },
+  {
+    "id": "ch-0124",
+    "name": "Kuwait Sports HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625087.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 124
+  },
+  {
+    "id": "ch-0125",
+    "name": "Kuwait Sports Plus HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625088.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 125
+  },
+  {
+    "id": "ch-0126",
+    "name": "Bahrain Sports 1 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625089.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 126
+  },
+  {
+    "id": "ch-0127",
+    "name": "Bahrain Sports 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625090.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 127
+  },
+  {
+    "id": "ch-0128",
+    "name": "Libya Sport Channel",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625091.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 128
+  },
+  {
+    "id": "ch-0129",
+    "name": "Libya Sports  2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625092.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 129
+  },
+  {
+    "id": "ch-0130",
+    "name": "Palestine Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625093.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 130
+  },
+  {
+    "id": "ch-0131",
+    "name": "Oman Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625094.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 131
+  },
+  {
+    "id": "ch-0132",
+    "name": "Jordan Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625095.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 132
+  },
+  {
+    "id": "ch-0133",
+    "name": "Iraqia Sport HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625096.m3u8",
+    "category": "العراق",
+    "icon": "fa-location-dot",
+    "enabled": true,
+    "sort": 133
+  },
+  {
+    "id": "ch-0134",
+    "name": "AD Sport 1FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625097.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 134
+  },
+  {
+    "id": "ch-0135",
+    "name": "AD Sport 2FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625098.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 135
+  },
+  {
+    "id": "ch-0136",
+    "name": "YAS Sport",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625099.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 136
+  },
+  {
+    "id": "ch-0137",
+    "name": "KSA Sport 1 FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625100.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 137
+  },
+  {
+    "id": "ch-0138",
+    "name": "KSA Sport 2 FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625101.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 138
+  },
+  {
+    "id": "ch-0139",
+    "name": "KSA Sport 3 FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625102.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 139
+  },
+  {
+    "id": "ch-0140",
+    "name": "ON Time Sports FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625103.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 140
+  },
+  {
+    "id": "ch-0141",
+    "name": "ON Time Sports 2FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625104.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 141
+  },
+  {
+    "id": "ch-0142",
+    "name": "Al Ahly FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625107.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 142
+  },
+  {
+    "id": "ch-0143",
+    "name": "Kuwait Sports FHD (H.265)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625108.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 143
+  },
+  {
+    "id": "ch-0144",
+    "name": "Arriadia MR",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625109.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 144
+  },
+  {
+    "id": "ch-0145",
+    "name": "ON Time Sports SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625110.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 145
+  },
+  {
+    "id": "ch-0146",
+    "name": "ON Time Sports 2 SD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625111.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 146
+  },
+  {
+    "id": "ch-0147",
+    "name": "ON Time Sports HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625112.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 147
+  },
+  {
+    "id": "ch-0148",
+    "name": "ON Time Sports 2 HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625113.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 148
+  },
+  {
+    "id": "ch-0149",
+    "name": "ON Time Sports FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625114.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 149
+  },
+  {
+    "id": "ch-0150",
+    "name": "ON Time Sports 2FHD (H.265) (50FPS)",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625115.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 150
+  },
+  {
+    "id": "ch-0151",
+    "name": "Nile Sports",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625116.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 151
+  },
+  {
+    "id": "ch-0152",
+    "name": "Al Ahly HD",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625117.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 152
+  },
+  {
+    "id": "ch-0153",
+    "name": "Zamalik TV",
+    "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625118.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 153
+  },
+  {
+    "id": "ch-0154",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/1.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 154
+  },
+  {
+    "id": "ch-0155",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/2.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 155
+  },
+  {
+    "id": "ch-0156",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/3.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 156
+  },
+  {
+    "id": "ch-0157",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/4.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 157
+  },
+  {
+    "id": "ch-0158",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/5.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 158
+  },
+  {
+    "id": "ch-0159",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/6.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 159
+  },
+  {
+    "id": "ch-0160",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/7.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 160
+  },
+  {
+    "id": "ch-0161",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/8.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 161
+  },
+  {
+    "id": "ch-0162",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/9.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 162
+  },
+  {
+    "id": "ch-0163",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/13.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 163
+  },
+  {
+    "id": "ch-0164",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/14.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 164
+  },
+  {
+    "id": "ch-0165",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/15.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 165
+  },
+  {
+    "id": "ch-0166",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/16.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 166
+  },
+  {
+    "id": "ch-0167",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/17.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 167
+  },
+  {
+    "id": "ch-0168",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/18.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 168
+  },
+  {
+    "id": "ch-0169",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/19.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 169
+  },
+  {
+    "id": "ch-0170",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/20.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 170
+  },
+  {
+    "id": "ch-0171",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/21.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 171
+  },
+  {
+    "id": "ch-0172",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/25.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 172
+  },
+  {
+    "id": "ch-0173",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/26.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 173
+  },
+  {
+    "id": "ch-0174",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/27.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 174
+  },
+  {
+    "id": "ch-0175",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/28.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 175
+  },
+  {
+    "id": "ch-0176",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/29.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 176
+  },
+  {
+    "id": "ch-0177",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/30.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 177
+  },
+  {
+    "id": "ch-0178",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/31.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 178
+  },
+  {
+    "id": "ch-0179",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/32.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 179
+  },
+  {
+    "id": "ch-0180",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/33.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 180
+  },
+  {
+    "id": "ch-0181",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/37.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 181
+  },
+  {
+    "id": "ch-0182",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/38.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 182
+  },
+  {
+    "id": "ch-0183",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/39.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 183
+  },
+  {
+    "id": "ch-0184",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/40.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 184
+  },
+  {
+    "id": "ch-0185",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/41.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 185
+  },
+  {
+    "id": "ch-0186",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/42.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 186
+  },
+  {
+    "id": "ch-0187",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/43.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 187
+  },
+  {
+    "id": "ch-0188",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/44.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 188
+  },
+  {
+    "id": "ch-0189",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/45.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 189
+  },
+  {
+    "id": "ch-0190",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/49.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 190
+  },
+  {
+    "id": "ch-0191",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/50.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 191
+  },
+  {
+    "id": "ch-0192",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/51.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 192
+  },
+  {
+    "id": "ch-0193",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/52.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 193
+  },
+  {
+    "id": "ch-0194",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/53.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 194
+  },
+  {
+    "id": "ch-0195",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/54.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 195
+  },
+  {
+    "id": "ch-0196",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/55.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 196
+  },
+  {
+    "id": "ch-0197",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/56.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 197
+  },
+  {
+    "id": "ch-0198",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/57.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 198
+  },
+  {
+    "id": "ch-0199",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/63.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 199
+  },
+  {
+    "id": "ch-0200",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/64.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 200
+  },
+  {
+    "id": "ch-0201",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/65.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 201
+  },
+  {
+    "id": "ch-0202",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/66.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 202
+  },
+  {
+    "id": "ch-0203",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/67.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 203
+  },
+  {
+    "id": "ch-0204",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/68.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 204
+  },
+  {
+    "id": "ch-0205",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/69.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 205
+  },
+  {
+    "id": "ch-0206",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/70.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 206
+  },
+  {
+    "id": "ch-0207",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/71.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 207
+  },
+  {
+    "id": "ch-0208",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/99.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 208
+  },
+  {
+    "id": "ch-0209",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/100.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 209
+  },
+  {
+    "id": "ch-0210",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/101.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 210
+  },
+  {
+    "id": "ch-0211",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/102.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 211
+  },
+  {
+    "id": "ch-0212",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/103.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 212
+  },
+  {
+    "id": "ch-0213",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/104.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 213
+  },
+  {
+    "id": "ch-0214",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/105.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 214
+  },
+  {
+    "id": "ch-0215",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/106.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 215
+  },
+  {
+    "id": "ch-0216",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/107.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 216
+  },
+  {
+    "id": "ch-0217",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/111.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 217
+  },
+  {
+    "id": "ch-0218",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/112.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 218
+  },
+  {
+    "id": "ch-0219",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/113.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 219
+  },
+  {
+    "id": "ch-0220",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/114.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 220
+  },
+  {
+    "id": "ch-0221",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/115.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 221
+  },
+  {
+    "id": "ch-0222",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/116.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 222
+  },
+  {
+    "id": "ch-0223",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/117.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 223
+  },
+  {
+    "id": "ch-0224",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/118.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 224
+  },
+  {
+    "id": "ch-0225",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/119.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 225
+  },
+  {
+    "id": "ch-0226",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/123.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 226
+  },
+  {
+    "id": "ch-0227",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/124.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 227
+  },
+  {
+    "id": "ch-0228",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/125.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 228
+  },
+  {
+    "id": "ch-0229",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/126.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 229
+  },
+  {
+    "id": "ch-0230",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/127.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 230
+  },
+  {
+    "id": "ch-0231",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/128.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 231
+  },
+  {
+    "id": "ch-0232",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/129.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 232
+  },
+  {
+    "id": "ch-0233",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/130.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 233
+  },
+  {
+    "id": "ch-0234",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/131.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 234
+  },
+  {
+    "id": "ch-0235",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/135.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 235
+  },
+  {
+    "id": "ch-0236",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/136.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 236
+  },
+  {
+    "id": "ch-0237",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/137.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 237
+  },
+  {
+    "id": "ch-0238",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/138.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 238
+  },
+  {
+    "id": "ch-0239",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/139.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 239
+  },
+  {
+    "id": "ch-0240",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/140.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 240
+  },
+  {
+    "id": "ch-0241",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/141.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 241
+  },
+  {
+    "id": "ch-0242",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/142.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 242
+  },
+  {
+    "id": "ch-0243",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/143.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 243
+  },
+  {
+    "id": "ch-0244",
+    "name": "beIN Sports 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/87.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 244
+  },
+  {
+    "id": "ch-0245",
+    "name": "beIN Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/88.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 245
+  },
+  {
+    "id": "ch-0246",
+    "name": "beIN Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/89.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 246
+  },
+  {
+    "id": "ch-0247",
+    "name": "beIN Sports 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/90.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 247
+  },
+  {
+    "id": "ch-0248",
+    "name": "beIN Sports 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/91.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 248
+  },
+  {
+    "id": "ch-0249",
+    "name": "beIN Sports 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/92.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 249
+  },
+  {
+    "id": "ch-0250",
+    "name": "beIN Sports 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/93.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 250
+  },
+  {
+    "id": "ch-0251",
+    "name": "beIN Sports 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/94.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 251
+  },
+  {
+    "id": "ch-0252",
+    "name": "beIN Sports 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/95.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 252
+  },
+  {
+    "id": "ch-0253",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/22.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 253
+  },
+  {
+    "id": "ch-0254",
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/23.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 254
+  },
+  {
+    "id": "ch-0255",
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/24.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 255
+  },
+  {
+    "id": "ch-0256",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/46.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 256
+  },
+  {
+    "id": "ch-0257",
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/47.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 257
+  },
+  {
+    "id": "ch-0258",
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/48.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 258
+  },
+  {
+    "id": "ch-0259",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/72.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 259
+  },
+  {
+    "id": "ch-0260",
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/73.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 260
+  },
+  {
+    "id": "ch-0261",
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/74.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 261
+  },
+  {
+    "id": "ch-0262",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/120.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 262
+  },
+  {
+    "id": "ch-0263",
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/121.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 263
+  },
+  {
+    "id": "ch-0264",
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/122.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 264
+  },
+  {
+    "id": "ch-0265",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/144.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 265
+  },
+  {
+    "id": "ch-0266",
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/145.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 266
+  },
+  {
+    "id": "ch-0267",
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/146.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 267
+  },
+  {
+    "id": "ch-0268",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/96.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 268
+  },
+  {
+    "id": "ch-0269",
+    "name": "beIN Sports XTRA 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/97.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 269
+  },
+  {
+    "id": "ch-0270",
+    "name": "beIN Sports XTRA 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/98.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 270
+  },
+  {
+    "id": "ch-0271",
+    "name": "beIN Sports AFC",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154331.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 271
+  },
+  {
+    "id": "ch-0272",
+    "name": "beIN Sports AFC 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154330.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 272
+  },
+  {
+    "id": "ch-0273",
+    "name": "beIN Sports AFC 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154329.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 273
+  },
+  {
+    "id": "ch-0274",
+    "name": "beIN Sports AFC 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154328.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 274
+  },
+  {
+    "id": "ch-0275",
+    "name": "beIN Sports AFC 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154327.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 275
+  },
+  {
+    "id": "ch-0276",
+    "name": "beIN Sports AFC 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154326.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 276
+  },
+  {
+    "id": "ch-0277",
+    "name": "beIN Sports AFC",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154325.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 277
+  },
+  {
+    "id": "ch-0278",
+    "name": "beIN Sports AFC 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154324.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 278
+  },
+  {
+    "id": "ch-0279",
+    "name": "beIN Sports AFC 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154323.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 279
+  },
+  {
+    "id": "ch-0280",
+    "name": "beIN Sports AFC 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154322.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 280
+  },
+  {
+    "id": "ch-0281",
+    "name": "beIN Sports AFC 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154321.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 281
+  },
+  {
+    "id": "ch-0282",
+    "name": "beIN Sports AFC 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154320.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 282
+  },
+  {
+    "id": "ch-0283",
+    "name": "beIN Sports AFC",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154319.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 283
+  },
+  {
+    "id": "ch-0284",
+    "name": "beIN Sports AFC 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154318.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 284
+  },
+  {
+    "id": "ch-0285",
+    "name": "beIN Sports AFC 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154317.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 285
+  },
+  {
+    "id": "ch-0286",
+    "name": "beIN Sports AFC 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154316.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 286
+  },
+  {
+    "id": "ch-0287",
+    "name": "beIN Sports AFC 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154315.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 287
+  },
+  {
+    "id": "ch-0288",
+    "name": "beIN Sports AFC 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154314.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 288
+  },
+  {
+    "id": "ch-0289",
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/170.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 289
+  },
+  {
+    "id": "ch-0290",
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/171.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 290
+  },
+  {
+    "id": "ch-0291",
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/172.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 291
+  },
+  {
+    "id": "ch-0292",
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/173.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 292
+  },
+  {
+    "id": "ch-0293",
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/166.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 293
+  },
+  {
+    "id": "ch-0294",
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/167.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 294
+  },
+  {
+    "id": "ch-0295",
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/168.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 295
+  },
+  {
+    "id": "ch-0296",
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/169.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 296
+  },
+  {
+    "id": "ch-0297",
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/174.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 297
+  },
+  {
+    "id": "ch-0298",
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/175.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 298
+  },
+  {
+    "id": "ch-0299",
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/176.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 299
+  },
+  {
+    "id": "ch-0300",
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/177.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 300
+  },
+  {
+    "id": "ch-0301",
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/321.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 301
+  },
+  {
+    "id": "ch-0302",
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/322.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 302
+  },
+  {
+    "id": "ch-0303",
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/323.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 303
+  },
+  {
+    "id": "ch-0304",
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/324.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 304
+  },
+  {
+    "id": "ch-0305",
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/317.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 305
+  },
+  {
+    "id": "ch-0306",
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/318.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 306
+  },
+  {
+    "id": "ch-0307",
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/319.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 307
+  },
+  {
+    "id": "ch-0308",
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/320.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 308
+  },
+  {
+    "id": "ch-0309",
+    "name": "beIN Sports Max 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/178.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 309
+  },
+  {
+    "id": "ch-0310",
+    "name": "beIN Sports Max 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/179.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 310
+  },
+  {
+    "id": "ch-0311",
+    "name": "beIN Sports Max 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/315.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 311
+  },
+  {
+    "id": "ch-0312",
+    "name": "beIN Sports Max 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/316.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 312
+  },
+  {
+    "id": "ch-0313",
+    "name": "beIN Sports News",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/420.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 313
+  },
+  {
+    "id": "ch-0314",
+    "name": "beIN Sports",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/419.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 314
+  },
+  {
+    "id": "ch-0315",
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154313.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 315
+  },
+  {
+    "id": "ch-0316",
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154312.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 316
+  },
+  {
+    "id": "ch-0317",
+    "name": "Alkass 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154311.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 317
+  },
+  {
+    "id": "ch-0318",
+    "name": "Alkass 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154310.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 318
+  },
+  {
+    "id": "ch-0319",
+    "name": "Alkass 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154309.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 319
+  },
+  {
+    "id": "ch-0320",
+    "name": "Alkass 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154308.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 320
+  },
+  {
+    "id": "ch-0321",
+    "name": "Alkass 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154307.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 321
+  },
+  {
+    "id": "ch-0322",
+    "name": "Alkass 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154306.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 322
+  },
+  {
+    "id": "ch-0323",
+    "name": "Alkass 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154305.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 323
+  },
+  {
+    "id": "ch-0324",
+    "name": "Alkass 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154304.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 324
+  },
+  {
+    "id": "ch-0325",
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154303.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 325
+  },
+  {
+    "id": "ch-0326",
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154302.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 326
+  },
+  {
+    "id": "ch-0327",
+    "name": "Alkass 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154301.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 327
+  },
+  {
+    "id": "ch-0328",
+    "name": "Alkass 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154300.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 328
+  },
+  {
+    "id": "ch-0329",
+    "name": "Alkass 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154299.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 329
+  },
+  {
+    "id": "ch-0330",
+    "name": "Alkass 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154298.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 330
+  },
+  {
+    "id": "ch-0331",
+    "name": "Alkass 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154297.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 331
+  },
+  {
+    "id": "ch-0332",
+    "name": "Alkass 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154296.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 332
+  },
+  {
+    "id": "ch-0333",
+    "name": "Alkass 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154295.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 333
+  },
+  {
+    "id": "ch-0334",
+    "name": "Alkass 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154294.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 334
+  },
+  {
+    "id": "ch-0335",
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154293.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 335
+  },
+  {
+    "id": "ch-0336",
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154292.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 336
+  },
+  {
+    "id": "ch-0337",
+    "name": "Alkass 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154291.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 337
+  },
+  {
+    "id": "ch-0338",
+    "name": "Alkass 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154290.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 338
+  },
+  {
+    "id": "ch-0339",
+    "name": "Alkass 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154289.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 339
+  },
+  {
+    "id": "ch-0340",
+    "name": "Alkass 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154288.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 340
+  },
+  {
+    "id": "ch-0341",
+    "name": "Alkass 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154287.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 341
+  },
+  {
+    "id": "ch-0342",
+    "name": "Alkass 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154286.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 342
+  },
+  {
+    "id": "ch-0343",
+    "name": "Alkass 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154285.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 343
+  },
+  {
+    "id": "ch-0344",
+    "name": "Alkass 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154284.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 344
+  },
+  {
+    "id": "ch-0345",
+    "name": "Alkass 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/418.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 345
+  },
+  {
+    "id": "ch-0346",
+    "name": "Alkass 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/417.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 346
+  },
+  {
+    "id": "ch-0347",
+    "name": "Alwan Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/360.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 347
+  },
+  {
+    "id": "ch-0348",
+    "name": "Alwan Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/361.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 348
+  },
+  {
+    "id": "ch-0349",
+    "name": "Alwan Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/362.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 349
+  },
+  {
+    "id": "ch-0350",
+    "name": "Alwan Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/363.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 350
+  },
+  {
+    "id": "ch-0351",
+    "name": "Alwan Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/364.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 351
+  },
+  {
+    "id": "ch-0352",
+    "name": "Alwan Sport 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/365.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 352
+  },
+  {
+    "id": "ch-0353",
+    "name": "Alwan Sport 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/366.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 353
+  },
+  {
+    "id": "ch-0354",
+    "name": "Alwan Sport 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/367.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 354
+  },
+  {
+    "id": "ch-0355",
+    "name": "Alwan Sport 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/368.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 355
+  },
+  {
+    "id": "ch-0356",
+    "name": "Alwan Sport 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/369.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 356
+  },
+  {
+    "id": "ch-0357",
+    "name": "Alwan Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/350.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 357
+  },
+  {
+    "id": "ch-0358",
+    "name": "Alwan Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/351.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 358
+  },
+  {
+    "id": "ch-0359",
+    "name": "Alwan Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/352.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 359
+  },
+  {
+    "id": "ch-0360",
+    "name": "Alwan Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/353.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 360
+  },
+  {
+    "id": "ch-0361",
+    "name": "Alwan Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/354.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 361
+  },
+  {
+    "id": "ch-0362",
+    "name": "Alwan Sport 6",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/355.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 362
+  },
+  {
+    "id": "ch-0363",
+    "name": "Alwan Sport 7",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/356.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 363
+  },
+  {
+    "id": "ch-0364",
+    "name": "Alwan Sport 8",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/357.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 364
+  },
+  {
+    "id": "ch-0365",
+    "name": "Alwan Sport 9",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/358.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 365
+  },
+  {
+    "id": "ch-0366",
+    "name": "Alwan Sport 10",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/359.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 366
+  },
+  {
+    "id": "ch-0367",
+    "name": "AL AHLY",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/413.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 367
+  },
+  {
+    "id": "ch-0368",
+    "name": "AL ZAMALEK",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/415.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 368
+  },
+  {
+    "id": "ch-0369",
+    "name": "Al Ahly",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/404.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 369
+  },
+  {
+    "id": "ch-0370",
+    "name": "ZAMALIK Sport",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/403.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 370
+  },
+  {
+    "id": "ch-0371",
+    "name": "ON Time Sport",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/400.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 371
+  },
+  {
+    "id": "ch-0372",
+    "name": "ON Time Sport Max",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/401.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 372
+  },
+  {
+    "id": "ch-0373",
+    "name": "ON Time Sport Plus",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/402.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 373
+  },
+  {
+    "id": "ch-0374",
+    "name": "Abu Dhabi Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/411.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 374
+  },
+  {
+    "id": "ch-0375",
+    "name": "Abu Dhabi Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/412.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 375
+  },
+  {
+    "id": "ch-0376",
+    "name": "KSA Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/425.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 376
+  },
+  {
+    "id": "ch-0377",
+    "name": "KSA Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/424.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 377
+  },
+  {
+    "id": "ch-0378",
+    "name": "KSA Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/423.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 378
+  },
+  {
+    "id": "ch-0379",
+    "name": "KSA Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/422.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 379
+  },
+  {
+    "id": "ch-0380",
+    "name": "Dubai Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/421.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 380
+  },
+  {
+    "id": "ch-0381",
+    "name": "Dubai Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/427.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 381
+  },
+  {
+    "id": "ch-0382",
+    "name": "Dubai Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/426.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 382
+  },
+  {
+    "id": "ch-0383",
+    "name": "Dubai Sports 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/409.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 383
+  },
+  {
+    "id": "ch-0384",
+    "name": "Dubai Sports 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/410.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 384
+  },
+  {
+    "id": "ch-0385",
+    "name": "Dubai Racing 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/406.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 385
+  },
+  {
+    "id": "ch-0386",
+    "name": "Dubai Racing 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/407.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 386
+  },
+  {
+    "id": "ch-0387",
+    "name": "YAS Sport",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/416.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 387
+  },
+  {
+    "id": "ch-0388",
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/10.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 388
+  },
+  {
+    "id": "ch-0389",
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/11.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 389
+  },
+  {
+    "id": "ch-0390",
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/12.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 390
+  },
+  {
+    "id": "ch-0391",
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/34.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 391
+  },
+  {
+    "id": "ch-0392",
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/35.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 392
+  },
+  {
+    "id": "ch-0393",
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/36.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 393
+  },
+  {
+    "id": "ch-0394",
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/58.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 394
+  },
+  {
+    "id": "ch-0395",
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/59.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 395
+  },
+  {
+    "id": "ch-0396",
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/60.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 396
+  },
+  {
+    "id": "ch-0397",
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/108.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 397
+  },
+  {
+    "id": "ch-0398",
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/109.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 398
+  },
+  {
+    "id": "ch-0399",
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/110.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 399
+  },
+  {
+    "id": "ch-0400",
+    "name": "THMANYAH 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/132.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 400
+  },
+  {
+    "id": "ch-0401",
+    "name": "THMANYAH 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/133.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 401
+  },
+  {
+    "id": "ch-0402",
+    "name": "THMANYAH 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/134.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 402
+  },
+  {
+    "id": "ch-0403",
+    "name": "Shahid Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/465.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 403
+  },
+  {
+    "id": "ch-0404",
+    "name": "Shahid Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/466.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 404
+  },
+  {
+    "id": "ch-0405",
+    "name": "Shahid Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/467.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 405
+  },
+  {
+    "id": "ch-0406",
+    "name": "Shahid Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/468.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 406
+  },
+  {
+    "id": "ch-0407",
+    "name": "Shahid Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/469.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 407
+  },
+  {
+    "id": "ch-0408",
+    "name": "Shahid Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/455.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 408
+  },
+  {
+    "id": "ch-0409",
+    "name": "Shahid Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/456.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 409
+  },
+  {
+    "id": "ch-0410",
+    "name": "Shahid Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/457.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 410
+  },
+  {
+    "id": "ch-0411",
+    "name": "Shahid Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/458.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 411
+  },
+  {
+    "id": "ch-0412",
+    "name": "Shahid Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/459.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 412
+  },
+  {
+    "id": "ch-0413",
+    "name": "Shahid Sport 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/450.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 413
+  },
+  {
+    "id": "ch-0414",
+    "name": "Shahid Sport 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/451.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 414
+  },
+  {
+    "id": "ch-0415",
+    "name": "Shahid Sport 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/452.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 415
+  },
+  {
+    "id": "ch-0416",
+    "name": "Shahid Sport 4",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/453.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 416
+  },
+  {
+    "id": "ch-0417",
+    "name": "Shahid Sport 5",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/454.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 417
+  },
+  {
+    "id": "ch-0418",
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 418
+  },
+  {
+    "id": "ch-0419",
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/155.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 419
+  },
+  {
+    "id": "ch-0420",
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/156.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 420
+  },
+  {
+    "id": "ch-0421",
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/157.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 421
+  },
+  {
+    "id": "ch-0422",
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/158.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 422
+  },
+  {
+    "id": "ch-0423",
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/159.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 423
+  },
+  {
+    "id": "ch-0424",
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/160.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 424
+  },
+  {
+    "id": "ch-0425",
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/161.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 425
+  },
+  {
+    "id": "ch-0426",
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/162.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 426
+  },
+  {
+    "id": "ch-0427",
+    "name": "AD STARZ Play 1",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/163.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 427
+  },
+  {
+    "id": "ch-0428",
+    "name": "AD STARZ Play 2",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/164.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 428
+  },
+  {
+    "id": "ch-0429",
+    "name": "AD STARZ Play 3",
+    "url": "http://gospeed.info:8080/live/01063411411/farid1411/165.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 429
+  },
+  {
+    "id": "ch-0430",
+    "name": "BEIN SPORTS NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/273517.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 430
+  },
+  {
+    "id": "ch-0431",
+    "name": "BEIN SPORTS NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/135.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 431
+  },
+  {
+    "id": "ch-0432",
+    "name": "BEIN SPORTS GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/136.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 432
+  },
+  {
+    "id": "ch-0433",
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10517.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 433
+  },
+  {
+    "id": "ch-0434",
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11160.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 434
+  },
+  {
+    "id": "ch-0435",
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11183.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 435
+  },
+  {
+    "id": "ch-0436",
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10516.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 436
+  },
+  {
+    "id": "ch-0437",
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11182.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 437
+  },
+  {
+    "id": "ch-0438",
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11181.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 438
+  },
+  {
+    "id": "ch-0439",
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10514.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 439
+  },
+  {
+    "id": "ch-0440",
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11178.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 440
+  },
+  {
+    "id": "ch-0441",
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11177.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 441
+  },
+  {
+    "id": "ch-0442",
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10513.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 442
+  },
+  {
+    "id": "ch-0443",
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11176.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 443
+  },
+  {
+    "id": "ch-0444",
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11175.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 444
+  },
+  {
+    "id": "ch-0445",
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10512.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 445
+  },
+  {
+    "id": "ch-0446",
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11174.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 446
+  },
+  {
+    "id": "ch-0447",
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11173.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 447
+  },
+  {
+    "id": "ch-0448",
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10511.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 448
+  },
+  {
+    "id": "ch-0449",
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11172.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 449
+  },
+  {
+    "id": "ch-0450",
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11171.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 450
+  },
+  {
+    "id": "ch-0451",
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10510.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 451
+  },
+  {
+    "id": "ch-0452",
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11170.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 452
+  },
+  {
+    "id": "ch-0453",
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11169.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 453
+  },
+  {
+    "id": "ch-0454",
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10509.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 454
+  },
+  {
+    "id": "ch-0455",
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11168.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 455
+  },
+  {
+    "id": "ch-0456",
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11167.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 456
+  },
+  {
+    "id": "ch-0457",
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10508.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 457
+  },
+  {
+    "id": "ch-0458",
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11166.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 458
+  },
+  {
+    "id": "ch-0459",
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11165.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 459
+  },
+  {
+    "id": "ch-0460",
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535836.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 460
+  },
+  {
+    "id": "ch-0461",
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535831.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 461
+  },
+  {
+    "id": "ch-0462",
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535830.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 462
+  },
+  {
+    "id": "ch-0463",
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535832.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 463
+  },
+  {
+    "id": "ch-0464",
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535837.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 464
+  },
+  {
+    "id": "ch-0465",
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535834.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 465
+  },
+  {
+    "id": "ch-0466",
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535833.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 466
+  },
+  {
+    "id": "ch-0467",
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535838.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 467
+  },
+  {
+    "id": "ch-0468",
+    "name": "BEIN SPORTS XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535835.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 468
+  },
+  {
+    "id": "ch-0469",
+    "name": "BEIN SPORTS XTRA 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535839.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 469
+  },
+  {
+    "id": "ch-0470",
+    "name": "BEIN SPORTS XTRA 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535840.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 470
+  },
+  {
+    "id": "ch-0471",
+    "name": "BEIN SPORTS XTRA 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535841.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 471
+  },
+  {
+    "id": "ch-0472",
+    "name": "BEIN SPORTS XTRA 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535842.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 472
+  },
+  {
+    "id": "ch-0473",
+    "name": "BEIN SPORTS XTRA 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535843.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 473
+  },
+  {
+    "id": "ch-0474",
+    "name": "BEIN SPORTS XTRA 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/535844.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 474
+  },
+  {
+    "id": "ch-0475",
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/10515.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 475
+  },
+  {
+    "id": "ch-0476",
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11180.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 476
+  },
+  {
+    "id": "ch-0477",
+    "name": "BEIN SPORTS XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/11179.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 477
+  },
+  {
+    "id": "ch-0478",
+    "name": "BEIN SPORTS 1 FR",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/333832.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 478
+  },
+  {
+    "id": "ch-0479",
+    "name": "BEIN SPORTS 2 FR",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/333831.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 479
+  },
+  {
+    "id": "ch-0480",
+    "name": "BEIN SPORTS 1 ENGLISH",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/827.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 480
+  },
+  {
+    "id": "ch-0481",
+    "name": "BEIN SPORTS 2 ENGLISH",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/828.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 481
+  },
+  {
+    "id": "ch-0482",
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14122.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 482
+  },
+  {
+    "id": "ch-0483",
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13787.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 483
+  },
+  {
+    "id": "ch-0484",
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14121.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 484
+  },
+  {
+    "id": "ch-0485",
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13786.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 485
+  },
+  {
+    "id": "ch-0486",
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14120.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 486
+  },
+  {
+    "id": "ch-0487",
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13785.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 487
+  },
+  {
+    "id": "ch-0488",
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/14119.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 488
+  },
+  {
+    "id": "ch-0489",
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13784.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 489
+  },
+  {
+    "id": "ch-0490",
+    "name": "BEIN SPORTS 2 TOD",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/701879.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 490
+  },
+  {
+    "id": "ch-0491",
+    "name": "BEIN SPORTS 1 TOD",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/701878.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 491
+  },
+  {
+    "id": "ch-0492",
+    "name": "BEIN SPORTS NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28236.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 492
+  },
+  {
+    "id": "ch-0493",
+    "name": "BEIN SPORTS GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28237.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 493
+  },
+  {
+    "id": "ch-0494",
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44389.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 494
+  },
+  {
+    "id": "ch-0495",
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44390.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 495
+  },
+  {
+    "id": "ch-0496",
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44392.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 496
+  },
+  {
+    "id": "ch-0497",
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44393.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 497
+  },
+  {
+    "id": "ch-0498",
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44394.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 498
+  },
+  {
+    "id": "ch-0499",
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44395.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 499
+  },
+  {
+    "id": "ch-0500",
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44396.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 500
+  },
+  {
+    "id": "ch-0501",
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44397.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 501
+  },
+  {
+    "id": "ch-0502",
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/56764.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 502
+  },
+  {
+    "id": "ch-0503",
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44391.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 503
+  },
+  {
+    "id": "ch-0504",
+    "name": "BEIN SPORTS 1 EN",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/44398.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 504
+  },
+  {
+    "id": "ch-0505",
+    "name": "AFC",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230372.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 505
+  },
+  {
+    "id": "ch-0506",
+    "name": "BEIN SPORTS AFC 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230371.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 506
+  },
+  {
+    "id": "ch-0507",
+    "name": "BEIN SPORTS AFC 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230370.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 507
+  },
+  {
+    "id": "ch-0508",
+    "name": "BEIN SPORTS AFC 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/230369.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 508
+  },
+  {
+    "id": "ch-0509",
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13776.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 509
+  },
+  {
+    "id": "ch-0510",
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13775.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 510
+  },
+  {
+    "id": "ch-0511",
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13774.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 511
+  },
+  {
+    "id": "ch-0512",
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13773.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 512
+  },
+  {
+    "id": "ch-0513",
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17253.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 513
+  },
+  {
+    "id": "ch-0514",
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3300.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 514
+  },
+  {
+    "id": "ch-0515",
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/16670.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 515
+  },
+  {
+    "id": "ch-0516",
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3297.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 516
+  },
+  {
+    "id": "ch-0517",
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/16669.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 517
+  },
+  {
+    "id": "ch-0518",
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3295.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 518
+  },
+  {
+    "id": "ch-0519",
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17247.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 519
+  },
+  {
+    "id": "ch-0520",
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17249.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 520
+  },
+  {
+    "id": "ch-0521",
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3292.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 521
+  },
+  {
+    "id": "ch-0522",
+    "name": "BEIN SPORTS XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/17254.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 522
+  },
+  {
+    "id": "ch-0523",
+    "name": "BEIN SPORTS 1 EN",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/3291.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 523
+  },
+  {
+    "id": "ch-0524",
+    "name": "BEIN SPORTS MAX 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13780.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 524
+  },
+  {
+    "id": "ch-0525",
+    "name": "BEIN SPORTS MAX 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13779.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 525
+  },
+  {
+    "id": "ch-0526",
+    "name": "BEIN SPORTS MAX 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13778.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 526
+  },
+  {
+    "id": "ch-0527",
+    "name": "BEIN SPORTS MAX 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/13777.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 527
+  },
+  {
+    "id": "ch-0528",
+    "name": "BEIN SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624619.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 528
+  },
+  {
+    "id": "ch-0529",
+    "name": "BEIN SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624618.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 529
+  },
+  {
+    "id": "ch-0530",
+    "name": "BEIN SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624617.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 530
+  },
+  {
+    "id": "ch-0531",
+    "name": "BEIN SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624616.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 531
+  },
+  {
+    "id": "ch-0532",
+    "name": "BEIN SPORTS 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624615.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 532
+  },
+  {
+    "id": "ch-0533",
+    "name": "BEIN SPORTS 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624614.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 533
+  },
+  {
+    "id": "ch-0534",
+    "name": "BEIN SPORTS 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624613.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 534
+  },
+  {
+    "id": "ch-0535",
+    "name": "BEIN SPORTS 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624612.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 535
+  },
+  {
+    "id": "ch-0536",
+    "name": "BEIN SPORTS 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624611.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 536
+  },
+  {
+    "id": "ch-0537",
+    "name": "BEIN SPORTS GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624620.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 537
+  },
+  {
+    "id": "ch-0538",
+    "name": "BEIN SPORTS NEW",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624621.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 538
+  },
+  {
+    "id": "ch-0539",
+    "name": "BEIN SPORTS XTRA1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624610.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 539
+  },
+  {
+    "id": "ch-0540",
+    "name": "BEIN SPORTS XTRA2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624609.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 540
+  },
+  {
+    "id": "ch-0541",
+    "name": "BEIN SPORTS XTRA3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624608.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 541
+  },
+  {
+    "id": "ch-0542",
+    "name": "beIN Sports 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624647.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 542
+  },
+  {
+    "id": "ch-0543",
+    "name": "beIN Sports 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624646.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 543
+  },
+  {
+    "id": "ch-0544",
+    "name": "beIN Sports 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624645.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 544
+  },
+  {
+    "id": "ch-0545",
+    "name": "beIN Sports 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624644.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 545
+  },
+  {
+    "id": "ch-0546",
+    "name": "beIN Sports 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624643.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 546
+  },
+  {
+    "id": "ch-0547",
+    "name": "beIN Sports 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624642.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 547
+  },
+  {
+    "id": "ch-0548",
+    "name": "beIN Sports 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624641.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 548
+  },
+  {
+    "id": "ch-0549",
+    "name": "beIN Sports 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624640.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 549
+  },
+  {
+    "id": "ch-0550",
+    "name": "beIN Sports 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624639.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 550
+  },
+  {
+    "id": "ch-0551",
+    "name": "beIN Sports GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624648.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 551
+  },
+  {
+    "id": "ch-0552",
+    "name": "beIN Sports NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624649.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 552
+  },
+  {
+    "id": "ch-0553",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624638.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 553
+  },
+  {
+    "id": "ch-0554",
+    "name": "beIN Sports XTRA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624637.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 554
+  },
+  {
+    "id": "ch-0555",
+    "name": "beIN Sports XTRA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624636.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 555
+  },
+  {
+    "id": "ch-0556",
+    "name": "beIN Sports 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624659.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 556
+  },
+  {
+    "id": "ch-0557",
+    "name": "beIN Sports 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624658.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 557
+  },
+  {
+    "id": "ch-0558",
+    "name": "beIN Sports 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624657.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 558
+  },
+  {
+    "id": "ch-0559",
+    "name": "beIN Sports 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624656.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 559
+  },
+  {
+    "id": "ch-0560",
+    "name": "beIN Sports 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624655.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 560
+  },
+  {
+    "id": "ch-0561",
+    "name": "beIN Sports 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624654.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 561
+  },
+  {
+    "id": "ch-0562",
+    "name": "beIN Sports 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624653.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 562
+  },
+  {
+    "id": "ch-0563",
+    "name": "beIN Sports 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624652.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 563
+  },
+  {
+    "id": "ch-0564",
+    "name": "beIN Sports 9",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624651.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 564
+  },
+  {
+    "id": "ch-0565",
+    "name": "beIN Sports GLOBAL",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624660.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 565
+  },
+  {
+    "id": "ch-0566",
+    "name": "beIN Sports NEWS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624661.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 566
+  },
+  {
+    "id": "ch-0567",
+    "name": "beIN Sports XTRA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/624650.m3u8",
+    "category": "beIN SPORTS",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 567
+  },
+  {
+    "id": "ch-0568",
+    "name": "ALKASS ONE",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28592.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 568
+  },
+  {
+    "id": "ch-0569",
+    "name": "ALKASS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28597.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 569
+  },
+  {
+    "id": "ch-0570",
+    "name": "ALKASS ONE",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28244.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 570
+  },
+  {
+    "id": "ch-0571",
+    "name": "ALKASS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28596.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 571
+  },
+  {
+    "id": "ch-0572",
+    "name": "ALKASS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4431.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 572
+  },
+  {
+    "id": "ch-0573",
+    "name": "ALKASS FOUR",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28593.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 573
+  },
+  {
+    "id": "ch-0574",
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699599.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 574
+  },
+  {
+    "id": "ch-0575",
+    "name": "SHAHID 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699598.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 575
+  },
+  {
+    "id": "ch-0576",
+    "name": "SHAHID 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699597.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 576
+  },
+  {
+    "id": "ch-0577",
+    "name": "SHAHID 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699596.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 577
+  },
+  {
+    "id": "ch-0578",
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699595.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 578
+  },
+  {
+    "id": "ch-0579",
+    "name": "SHAHID 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699594.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 579
+  },
+  {
+    "id": "ch-0580",
+    "name": "SHAHID 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699593.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 580
+  },
+  {
+    "id": "ch-0581",
+    "name": "SHAHID 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699592.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 581
+  },
+  {
+    "id": "ch-0582",
+    "name": "SHAHID 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699591.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 582
+  },
+  {
+    "id": "ch-0583",
+    "name": "SHAHID 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699590.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 583
+  },
+  {
+    "id": "ch-0584",
+    "name": "SHAHID 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699589.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 584
+  },
+  {
+    "id": "ch-0585",
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699588.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 585
+  },
+  {
+    "id": "ch-0586",
+    "name": "SHAHID 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699587.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 586
+  },
+  {
+    "id": "ch-0587",
+    "name": "Bundesliga Shaid 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699586.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 587
+  },
+  {
+    "id": "ch-0588",
+    "name": "Bundesliga Shaid 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699585.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 588
+  },
+  {
+    "id": "ch-0589",
+    "name": "Bundesliga Shaid 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699584.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 589
+  },
+  {
+    "id": "ch-0590",
+    "name": "Bundesliga Shaid 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699583.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 590
+  },
+  {
+    "id": "ch-0591",
+    "name": "Bundesliga Shaid 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699582.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 591
+  },
+  {
+    "id": "ch-0592",
+    "name": "Bundesliga Shaid 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699581.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 592
+  },
+  {
+    "id": "ch-0593",
+    "name": "ShaSha Sport",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699580.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 593
+  },
+  {
+    "id": "ch-0594",
+    "name": "ShaSha Sport Event",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699579.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 594
+  },
+  {
+    "id": "ch-0595",
+    "name": "SHAHID SPORT 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699578.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 595
+  },
+  {
+    "id": "ch-0596",
+    "name": "SHAHID SPORT 6",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699577.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 596
+  },
+  {
+    "id": "ch-0597",
+    "name": "SHAHID SPORT 7",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699576.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 597
+  },
+  {
+    "id": "ch-0598",
+    "name": "SHAHID SPORT 8",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699575.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 598
+  },
+  {
+    "id": "ch-0599",
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699574.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 599
+  },
+  {
+    "id": "ch-0600",
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699573.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 600
+  },
+  {
+    "id": "ch-0601",
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699572.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 601
+  },
+  {
+    "id": "ch-0602",
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699571.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 602
+  },
+  {
+    "id": "ch-0603",
+    "name": "SHAHID SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699570.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 603
+  },
+  {
+    "id": "ch-0604",
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699569.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 604
+  },
+  {
+    "id": "ch-0605",
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699568.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 605
+  },
+  {
+    "id": "ch-0606",
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699567.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 606
+  },
+  {
+    "id": "ch-0607",
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699566.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 607
+  },
+  {
+    "id": "ch-0608",
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699565.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 608
+  },
+  {
+    "id": "ch-0609",
+    "name": "SHAHID SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699564.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 609
+  },
+  {
+    "id": "ch-0610",
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699563.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 610
+  },
+  {
+    "id": "ch-0611",
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699562.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 611
+  },
+  {
+    "id": "ch-0612",
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699561.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 612
+  },
+  {
+    "id": "ch-0613",
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699560.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 613
+  },
+  {
+    "id": "ch-0614",
+    "name": "SHAHID SPORT 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699559.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 614
+  },
+  {
+    "id": "ch-0615",
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699558.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 615
+  },
+  {
+    "id": "ch-0616",
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699557.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 616
+  },
+  {
+    "id": "ch-0617",
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699556.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 617
+  },
+  {
+    "id": "ch-0618",
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699555.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 618
+  },
+  {
+    "id": "ch-0619",
+    "name": "SHAHID SPORT 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/699554.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 619
+  },
+  {
+    "id": "ch-0620",
+    "name": "SHASHA EVENTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/609181.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 620
+  },
+  {
+    "id": "ch-0621",
+    "name": "SHASHA EVENTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/609180.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 621
+  },
+  {
+    "id": "ch-0622",
+    "name": "SHASHA EVENTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/609179.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 622
+  },
+  {
+    "id": "ch-0623",
+    "name": "THAMANYA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557160.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 623
+  },
+  {
+    "id": "ch-0624",
+    "name": "THAMANYA 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557159.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 624
+  },
+  {
+    "id": "ch-0625",
+    "name": "THAMANYA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557162.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 625
+  },
+  {
+    "id": "ch-0626",
+    "name": "THAMANYA 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/557163.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 626
+  },
+  {
+    "id": "ch-0627",
+    "name": "THAMANYA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/593470.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 627
+  },
+  {
+    "id": "ch-0628",
+    "name": "THAMANYA 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/593471.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 628
+  },
+  {
+    "id": "ch-0629",
+    "name": "ABUDABI SPORT PR 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248852.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 629
+  },
+  {
+    "id": "ch-0630",
+    "name": "ABUDABI SPORT PR 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248851.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 630
+  },
+  {
+    "id": "ch-0631",
+    "name": "ABUDABI SPORT PR 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248854.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 631
+  },
+  {
+    "id": "ch-0632",
+    "name": "ABUDABI SPORT PR 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248853.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 632
+  },
+  {
+    "id": "ch-0633",
+    "name": "STARZPLAY SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248856.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 633
+  },
+  {
+    "id": "ch-0634",
+    "name": "STARZPLAY SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248855.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 634
+  },
+  {
+    "id": "ch-0635",
+    "name": "FIGHT SPORTS EVENTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/248890.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 635
+  },
+  {
+    "id": "ch-0636",
+    "name": "ALFAJER 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689540.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 636
+  },
+  {
+    "id": "ch-0637",
+    "name": "ALFAJER 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689539.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 637
+  },
+  {
+    "id": "ch-0638",
+    "name": "ALFAJER 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689538.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 638
+  },
+  {
+    "id": "ch-0639",
+    "name": "ALFAJER 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689537.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 639
+  },
+  {
+    "id": "ch-0640",
+    "name": "ALFAJER 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689536.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 640
+  },
+  {
+    "id": "ch-0641",
+    "name": "ALFAJER 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689535.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 641
+  },
+  {
+    "id": "ch-0642",
+    "name": "ALFAJER 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689534.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 642
+  },
+  {
+    "id": "ch-0643",
+    "name": "ALFAJER 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689533.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 643
+  },
+  {
+    "id": "ch-0644",
+    "name": "ALFAJER 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689532.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 644
+  },
+  {
+    "id": "ch-0645",
+    "name": "ALFAJER 5",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/689531.m3u8",
+    "category": "أخرى",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 645
+  },
+  {
+    "id": "ch-0646",
+    "name": "STC TV SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/606546.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 646
+  },
+  {
+    "id": "ch-0647",
+    "name": "STC TV SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/606545.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 647
+  },
+  {
+    "id": "ch-0648",
+    "name": "AD SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4474.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 648
+  },
+  {
+    "id": "ch-0649",
+    "name": "AD SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4473.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 649
+  },
+  {
+    "id": "ch-0650",
+    "name": "DUBAI SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28289.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 650
+  },
+  {
+    "id": "ch-0651",
+    "name": "UAE DUBAI SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28288.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 651
+  },
+  {
+    "id": "ch-0652",
+    "name": "UAE DUBAI SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28287.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 652
+  },
+  {
+    "id": "ch-0653",
+    "name": "SHARJAH SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/51902.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 653
+  },
+  {
+    "id": "ch-0654",
+    "name": "KSA SPORTS 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28479.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 654
+  },
+  {
+    "id": "ch-0655",
+    "name": "KSA SPORTS 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28477.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 655
+  },
+  {
+    "id": "ch-0656",
+    "name": "KSA SPORTS 3",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/122847.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 656
+  },
+  {
+    "id": "ch-0657",
+    "name": "KSA SPORTS 4",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/122848.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 657
+  },
+  {
+    "id": "ch-0658",
+    "name": "YAS SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28276.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 658
+  },
+  {
+    "id": "ch-0659",
+    "name": "IRAQIA SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28505.m3u8",
+    "category": "العراق",
+    "icon": "fa-location-dot",
+    "enabled": true,
+    "sort": 659
+  },
+  {
+    "id": "ch-0660",
+    "name": "LIBYA SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28456.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 660
+  },
+  {
+    "id": "ch-0661",
+    "name": "KTV SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/38938.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 661
+  },
+  {
+    "id": "ch-0662",
+    "name": "Bahrain Sport",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/38944.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 662
+  },
+  {
+    "id": "ch-0663",
+    "name": "JORDAN SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28486.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 663
+  },
+  {
+    "id": "ch-0664",
+    "name": "PALESTINE SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28374.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 664
+  },
+  {
+    "id": "ch-0665",
+    "name": "OMAN TV SPORTS",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28395.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 665
+  },
+  {
+    "id": "ch-0666",
+    "name": "SUDAN SPORT",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/28331.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 666
+  },
+  {
+    "id": "ch-0667",
+    "name": "KTV Sports Plus",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/277390.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 667
+  },
+  {
+    "id": "ch-0668",
+    "name": "Bahrain Sports 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/277406.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 668
+  },
+  {
+    "id": "ch-0669",
+    "name": "Bahrain Sports 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/277405.m3u8",
+    "category": "خليجي",
+    "icon": "fa-earth-asia",
+    "enabled": true,
+    "sort": 669
+  },
+  {
+    "id": "ch-0670",
+    "name": "AD SPORT 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/278615.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 670
+  },
+  {
+    "id": "ch-0671",
+    "name": "AD SPORT 2",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/4473.m3u8",
+    "category": "رياضة",
+    "icon": "fa-futbol",
+    "enabled": true,
+    "sort": 671
+  }
+]
