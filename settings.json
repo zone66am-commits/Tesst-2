@@ -1,12 +1,12 @@
 {
-  "siteTitle": "كاس الخليج 27",
+  "siteTitle": "Tremnal X",
   "brand": "LIVE TV",
-  "heroTitle": "كاس الخليج 27",
+  "heroTitle": "Tremnal X",
   "heroSubtitle": "مشاهدة القنوات والبثوث المباشرة بجودة عالية",
   "telegramUrl": "https://t.me/C9_9P",
   "telegramTitle": "انضم لقناتنا على تيليجرام",
   "telegramText": "تابع آخر التحديثات والسيرفرات الحصرية أولاً بأول على قناتنا الرسمية",
-  "telegramPopup": false,
+  "telegramPopup": true,
   "visibleLimit": 80,
   "accent": "#039389",
   "maintenance": true
