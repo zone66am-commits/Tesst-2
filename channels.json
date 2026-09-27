@@ -6037,5 +6037,15 @@
     "icon": "fa-futbol",
     "enabled": true,
     "sort": 671
+  },
+  {
+    "id": "ch-1790539653526",
+    "name": "BeIN sports news",
+    "url": "http://premium2.ottpro2.org/live/alexandre/5939369/78372.m3u8",
+    "category": "beIN SPORTS",
+    "categoryId": "cat-03",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 672
   }
 ]
