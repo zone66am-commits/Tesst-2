@@ -6,8 +6,8 @@
   "telegramUrl": "https://t.me/C9_9P",
   "telegramTitle": "انضم لقناتنا على تيليجرام",
   "telegramText": "تابع آخر التحديثات والسيرفرات الحصرية أولاً بأول على قناتنا الرسمية",
-  "telegramPopup": true,
+  "telegramPopup": false,
   "visibleLimit": 80,
   "accent": "#039389",
-  "maintenance": false
+  "maintenance": true
 }
