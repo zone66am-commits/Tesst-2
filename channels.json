@@ -6047,5 +6047,15 @@
     "icon": "fa-tv",
     "enabled": true,
     "sort": 672
+  },
+  {
+    "id": "ch-1790599810627",
+    "name": "Alkass 1",
+    "url": "http://premium2.ottpro2.org/live/alexandre/5939369/22766.m3u8",
+    "category": "خليجي 27",
+    "categoryId": "cat-1790599509057",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 673
   }
 ]
