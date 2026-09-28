@@ -6057,5 +6057,15 @@
     "icon": "fa-tv",
     "enabled": true,
     "sort": 673
+  },
+  {
+    "id": "ch-1790600282571",
+    "name": "AD sports 1",
+    "url": "http://cdn.pt-private.com/live/388743/hMMTZEJ/278615.m3u8",
+    "category": "خليجي 27",
+    "categoryId": "cat-1790599509057",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 674
   }
 ]
