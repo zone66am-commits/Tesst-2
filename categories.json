@@ -47,5 +47,12 @@
     "icon": "fa-tv",
     "enabled": true,
     "sort": 7
+  },
+  {
+    "id": "cat-1790599509057",
+    "name": "خليجي 27",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 2
   }
 ]
