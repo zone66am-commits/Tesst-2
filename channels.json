@@ -984,8 +984,7 @@
     "id": "ch-0110",
     "name": "AD Sport 1HD",
     "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625068.m3u8",
-    "category": "خليجي 27",
-    "categoryId": "cat-1790599509057",
+    "category": "رياضة",
     "icon": "fa-futbol",
     "enabled": true,
     "sort": 110
@@ -994,7 +993,8 @@
     "id": "ch-0111",
     "name": "AD Sport 2HD",
     "url": "http://26.dragonpro.net:8080/live/980399222412/372838219650/625069.m3u8",
-    "category": "رياضة",
+    "category": "خليجي 27",
+    "categoryId": "cat-1790599509057",
     "icon": "fa-futbol",
     "enabled": true,
     "sort": 111
@@ -6048,16 +6048,6 @@
     "icon": "fa-tv",
     "enabled": true,
     "sort": 672
-  },
-  {
-    "id": "ch-1790599810627",
-    "name": "Alkass 1",
-    "url": "http://premium2.ottpro2.org/live/alexandre/5939369/22766.m3u8",
-    "category": "خليجي 27",
-    "categoryId": "cat-1790599509057",
-    "icon": "fa-tv",
-    "enabled": true,
-    "sort": 673
   },
   {
     "id": "ch-1790600282571",
