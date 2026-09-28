@@ -7,18 +7,18 @@
     "sort": 1
   },
   {
+    "id": "cat-1790599509057",
+    "name": "خليجي 27",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 0
+  },
+  {
     "id": "cat-02",
     "name": "beIN SPORTS SD",
     "icon": "fa-futbol",
     "enabled": true,
     "sort": 2
-  },
-  {
-    "id": "cat-1790599509057",
-    "name": "خليجي 27",
-    "icon": "fa-tv",
-    "enabled": true,
-    "sort": 1
   },
   {
     "id": "cat-03",
