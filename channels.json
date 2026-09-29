@@ -2840,7 +2840,7 @@
   {
     "id": "ch-0316",
     "name": "Alkass 2",
-    "url": "http://gospeed.info:8080/live/01063411411/farid1411/154312.m3u8",
+    "url": "https://live-tv-116849026166.europe-west1.run.app/api/alkass/stream/2",
     "category": "خليجي 27",
     "categoryId": "cat-1790599509057",
     "icon": "fa-tv",
