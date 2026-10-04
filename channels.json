@@ -6051,5 +6051,16 @@
     "icon": "fa-tv",
     "enabled": true,
     "sort": 672
+  },
+  {
+    "id": "ch-1791128579945",
+    "name": "Test",
+    "url": "http://lynxlive40.lg.mncdn.org/196180/tracks-v1a1/2026/10/04/14/55/28-02000.m3u8",
+    "userAgent": "vorixa.tv2/9.8 (Linux;Android 13) AndroidXMedia3/1.4.1",
+    "category": "",
+    "categoryId": "",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 673
   }
 ]
