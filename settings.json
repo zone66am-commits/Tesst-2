@@ -9,5 +9,5 @@
   "telegramPopup": true,
   "visibleLimit": 80,
   "accent": "#039389",
-  "maintenance": false
+  "maintenance": true
 }
