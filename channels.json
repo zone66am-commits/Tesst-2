@@ -8,5 +8,15 @@
     "icon": "fa-tv",
     "enabled": true,
     "sort": 1
+  },
+  {
+    "id": "ch-1792320789968",
+    "name": "Yaas2",
+    "url": "31.59.20.176:6754:fvwpztks:g70vbcx1gnnv",
+    "category": "",
+    "categoryId": "",
+    "icon": "fa-tv",
+    "enabled": true,
+    "sort": 2
   }
 ]
